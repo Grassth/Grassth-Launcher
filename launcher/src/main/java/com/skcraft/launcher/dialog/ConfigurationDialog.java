@@ -115,7 +115,6 @@ public class ConfigurationDialog extends JDialog {
         tabbedPane.addTab(SharedLocale.tr("options.advancedTab"), SwingHelper.alignTabbedPane(advancedPanel));
 
         buttonsPanel.addElement(logButton);
-        buttonsPanel.addElement(aboutButton);
         buttonsPanel.addGlue();
         buttonsPanel.addElement(okButton);
         buttonsPanel.addElement(cancelButton);
