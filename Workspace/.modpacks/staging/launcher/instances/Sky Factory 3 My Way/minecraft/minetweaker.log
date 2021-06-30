@@ -1,9 +1,0 @@
-[POSTINITIALIZATION][CLIENT][ERROR] system: JEI is already defined in that package
-[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Initial Inventory Recipe(s) for <simpleachievements:achievement_book>:-1
-[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Initial Inventory Recipe(s) for <minecraft:torch>:-1
-[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Initial Inventory Recipe(s) for <minecraft:stick>.withTag({display: {Name: "Builder's Wand"}}):-1
-[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Initial Inventory Recipe(s) for <actuallyadditions:itemCoffee>:-1
-[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Initial Inventory Recipe(s) for <harvestcraft:toastItem>:-1
-[POSTINITIALIZATION][CLIENT][INFO] Adding 1 Initial Inventory Recipe(s) for <immersiveengineering:metal:29>.withTag({RepairCost: 0, display: {Name: "Tin Nugget"}}):-1
-[AVAILABLE][CLIENT][INFO] MineTweaker: Building registry
-[AVAILABLE][CLIENT][INFO] MineTweaker: Sucessfully built item registry
