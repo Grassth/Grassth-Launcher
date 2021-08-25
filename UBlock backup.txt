@@ -1,0 +1,39 @@
+{
+  "timeStamp": 1629898656646,
+  "version": "1.37.2",
+  "userSettings": {
+    "cloudStorageEnabled": true,
+    "importedLists": []
+  },
+  "selectedFilterLists": [
+    "user-filters",
+    "ublock-filters",
+    "ublock-badware",
+    "ublock-privacy",
+    "ublock-abuse",
+    "ublock-unbreak",
+    "adguard-generic",
+    "adguard-mobile",
+    "easylist",
+    "easyprivacy",
+    "urlhaus-1",
+    "adguard-annoyance",
+    "ublock-annoyances",
+    "plowe-0"
+  ],
+  "hiddenSettings": {},
+  "whitelist": [
+    "about-scheme",
+    "chrome-extension-scheme",
+    "chrome-scheme",
+    "edge-scheme",
+    "moz-extension-scheme",
+    "opera-scheme",
+    "vivaldi-scheme",
+    "wyciwyg-scheme"
+  ],
+  "dynamicFilteringString": "behind-the-scene * * noop\nbehind-the-scene * inline-script noop\nbehind-the-scene * 1p-script noop\nbehind-the-scene * 3p-script noop\nbehind-the-scene * 3p-frame noop\nbehind-the-scene * image noop\nbehind-the-scene * 3p noop",
+  "urlFilteringString": "",
+  "hostnameSwitchesString": "no-large-media: behind-the-scene false",
+  "userFilters": "! snook picture\n||lh3.googleusercontent.com/a-/AOh14GhSbi8xSKgOqmfnygR-CEix-13xpggMurygVT8X=s75-c$image\n||lh3.googleusercontent.com/a-/AOh14GhSbi8xSKgOqmfnygR-CEix-13xpggMurygVT8X=s40-c$image\n"
+}
